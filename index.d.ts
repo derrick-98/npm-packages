@@ -1,0 +1,1 @@
+export function calculatingRectangleArea(length:number, width:number): any;
